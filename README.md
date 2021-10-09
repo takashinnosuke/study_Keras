@@ -1,2 +1,3 @@
 # study_Keras
-Kerasの勉強用リポジトリです．
+Kerasの勉強用リポジトリです．<br>
+PythonとKerasによるディープラーニングを読んでいます．
